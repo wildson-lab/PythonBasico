@@ -1,2 +1,2 @@
 # PythonBasico
-Este repositório contém códigos básicos em Python.
+Este repositório contém códigos adaptados do curso Python Básico da DIO.
