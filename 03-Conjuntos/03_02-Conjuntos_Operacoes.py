@@ -1,4 +1,4 @@
-# 02 - Conjuntos (Parte 2)
+# 02 - 03-Conjuntos (Parte 2)
 # Este codigo demonstra a aplicacao de operacoes entre conjuntos
 
 # Inicializa os conjuntos
