@@ -1,7 +1,14 @@
-# PythonBasico
-Este repositório contém códigos com funções básicas em Python. Alguns códigos foram adaptados do curso Python Básico da DIO.
+# Python Basico
+Este repositório contém códigos com funções básicas em Python.
 
-# Estrutura
+## Objetivo
+O objetivo deste repositório é fornecer códigos para consultas rápidas, para tirar dúvidas sobretudo de programadores iniciantes no universo Python.
+
+Criei este repositório durante o curso de Python Básico da Dio, com o objetivo de praticar Python e aplicar conceitos de Git e GitHub simultaneamente. A estrutura e códigos são baseados neste curso.
+
+Sempre que possível, estarei atualizando este repositório. Caso deseje contribuir, seu pull request será bem vindo!
+
+## Estrutura
 O diretório está estruturado da seguinte forma:
 
 ### 01. Funções Básicas
