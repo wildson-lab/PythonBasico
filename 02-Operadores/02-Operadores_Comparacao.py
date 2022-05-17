@@ -1,4 +1,4 @@
-# 04 - Operadores Aritmeticos
+# Operadores Aritmeticos
 
 a = 3
 b = 2
