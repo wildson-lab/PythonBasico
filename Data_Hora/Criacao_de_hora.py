@@ -1,4 +1,3 @@
-# Criar Hora:
 # Cria uma hora utilizando a biblioteca time e imprime a hora criada
 
 from datetime import time

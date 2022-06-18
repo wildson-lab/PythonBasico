@@ -1,9 +1,9 @@
-# Criacao de Datas
+# Criacao de Datas em Python
 
 from datetime import datetime, timedelta
 
 # Uma das formas para criar uma data
-data_criada = datetime(1995, 12, 13, 19 ,20, 00)
+data_criada = datetime(2019, 6, 16, 14, 20, 00)
 
 # Imprime o tipo da variável data_criada
 print(type(data_criada))
