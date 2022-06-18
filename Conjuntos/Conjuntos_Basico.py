@@ -1,6 +1,5 @@
-# 01 - 03-Conjuntos (Parte 1)
 # Este codigo demonstra a aplicacao de funcoes basicas de conjuntos em Python
-# Conjunto e um tipo que nao aceita repeticao de elementos.
+# Conjunto e um tipo que não aceita repeticao de elementos.
 
 # Cria um novo conjunto contendo numeros (um conjunto pode conter diversos tipos)
 conjunto = {1, 2, 3, 4, 99, 5}
