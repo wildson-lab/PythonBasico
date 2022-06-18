@@ -1,3 +1,3 @@
 # Primeiro programa em Python
 
-print("Ola mundo!")
+print("Olá mundo!")
