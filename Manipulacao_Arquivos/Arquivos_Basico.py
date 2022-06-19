@@ -1,6 +1,6 @@
 # Operacoes basicas com arquivos em Python
-# Neste codigo mostra-se como abrir arquivos no modo de escrita 'w',
-# adicao de conteudo 'a' e leitura 'r'.
+# Neste codigo mostra-se como abrir arquivos no modo de escrita,
+# adicionar ao final e de leitura.
 
 # Abre o arquivo no modo de escrita (reescreve o arquivo) e adiciona uma linha
 arquivo = open('teste.txt', 'w')
